@@ -1,0 +1,516 @@
+<?xml version="1.0" standalone="yes"?>
+
+<beast>
+
+	<!-- ntax=30 This is the data for the Aquilegia Flowers                                                                -->
+	<taxa id="taxa">
+		<taxon id="BA"> <attr name="factors">0 0 </attr><attr name="latent">	-1.0689881072	-0.2789429343	-0.498023578	-0.321626151	-1.1654663148	0.7360376577	0.6842060695	1.4945356232	-0.0820452564	-0.1117417991	1	-1.0</attr></taxon>
+		<taxon id="JO"> <attr name="factors">0 0 </attr><attr name="latent">	1.0769359742	-1.2899932937	0.2126353315	-0.2957619482	-0.4791611572	-2.405344899	-0.0193149724	-0.4917142226	-1.7344186356	-0.6877327533	0	1.0</attr></taxon>
+		<taxon id="CA_VA_1"> <attr name="factors">0 0 </attr><attr name="latent"> 	-1.1541438247	-0.4501447974	-0.6878137912	-0.8619006087	1.2809268346	-0.5812136223	-1.0259737748	-0.1099675044	0.770405112	-0.256910251	1	1.0</attr></taxon>
+		<taxon id="CHAP_NM_3"> <attr name="factors">0 0 </attr><attr name="latent"> 	1.1620916917	0.2871518649	-0.2091206979	-1.2168149466	0.0668301144	0.8942843634	0.414601247	0.646857867	0.3281754986	0.0641996886	2	-1.0</attr></taxon>
+		<taxon id="CH_CHI_2"> <attr name="factors">0 0 </attr><attr name="latent"> 	0.8725622521	0.6608246606	0.7651357299	0.3580276215	0.2341500203	0.6958348482	-0.4069557371	0.8052244094	-0.0119258767	-0.4415484662	2	-1.0</attr></taxon>
+		<taxon id="COOC_CO_2"> <attr name="factors">0 0 </attr><attr name="latent"> 	1.0258425437	0.6920835036	1.009754227	1.7202089669	-1.0380683514	1.0411727416	1.5574037782	-1.1560201928	1.1580513729	1.3272321177	2	-1.0</attr></taxon>
+		<taxon id="CH_NM_3"> <attr name="factors">0 0 </attr><attr name="latent"> 	0.8725622521	0.6608246606	0.7651357299	0.3580276215	0.2341500203	0.6958348482	-0.4069557371	0.8052244094	-0.0119258767	-0.4415484662	2	 -1.0</attr></taxon>
+		<taxon id="COAL_WY_1"> <attr name="factors">0 0 </attr><attr name="latent"> 	0.8555311086	0.6336550886	0.851595716	2.1584635137	-1.0357200018	1.0371438776	1.5714876122	-1.1860264851	1.1266394162	1.4857801504	2	-1.0</attr></taxon>
+		<taxon id="COCO_WY_3"> <attr name="factors">0 0 </attr><attr name="latent">	0.8895933956	0.5437945415	1.9418350519	2.0636281036	-1.1290668967	-0.1065463315	-0.3405605196	-1.0451636131	1.1865119818	1.446310387	2	-1.0</attr></taxon>
+		<taxon id="COOC_UT_4"> <attr name="factors">0 0 </attr><attr name="latent"> 	1.0258425437	0.6920835036	1.009754227	1.7202089669	-1.0380683514	1.0411727416	1.5574037782	-1.1560201928	1.1580513729	1.3272321177	2	-1.0</attr></taxon>
+		<taxon id="COPI_AZ_1"> <attr name="factors">0 0 </attr><attr name="latent"> 	1.4345899877	1.385476276	0.4235133462	1.0261861929	-1.0956029155	1.0139226391	1.3367570453	-0.9326400171	1.1277751877	0.3337982421	2	 -1.0</attr></taxon>
+		<taxon id="DE_AZ_1"> <attr name="factors">0 0 </attr><attr name="latent"> 	-1.0178946767	-0.5470866235	-0.8396459618	-0.9538622185	1.2545079021	-0.0862953725	-0.9133031027	1.5262089317	-0.6971525506	-1.3787881024	1	1.0</attr></taxon>
+		<taxon id="EL_NM_4"> <attr name="factors">0 0 </attr><attr name="latent"> 	-1.0349258202	-0.2747048285	-0.5085674787	-1.0673773306	1.7523580078	-0.5299021761	-1.2499738015	0.2634441326	0.0030381196	-1.0068357557	1	1.0</attr></taxon>
+		<taxon id="EX_CA_2"> <attr name="factors">0 0 </attr><attr name="latent">	-1.0860192507	-0.4924939028	-1.5439785308	-0.4638792662	1.4394404296	-0.5234778416	-1.0574947366	1.2894926261	-0.9297121201	-1.6544074673	1	1.0</attr></taxon>
+		<taxon id="FL_UT_5"> <attr name="factors">0 0 </attr><attr name="latent"> 	-1.0689881072	-0.9182101793	-0.441086514	-0.5429087746	-0.2296490169	0.7016219512	0.5426970706	0.4351468049	0.0668154177	0.0140262606	1	-1.0</attr></taxon>
+		<taxon id="FO_CA_BAL_3"> <attr name="factors">0 0 </attr><attr name="latent">	-1.1200815377	-0.539054015	-1.4301044029	-0.5687729774	1.5286777127	-0.4629486457	-0.8723929182	1.1386276567	-0.5212820705	-1.3440011923	1	1.0</attr></taxon>
+		<taxon id="FO_CA_BTR_1"> <attr name="factors">0 0 </attr><attr name="latent"> 	-1.1200815377	-0.539054015	-1.4301044029	-0.5687729774	1.5286777127	-0.4629486457	-0.8723929182	1.1386276567	-0.5212820705	-1.3440011923	1	1.0</attr></taxon>
+		<taxon id="HI_TX_4"> <attr name="factors">0 0 </attr><attr name="latent"> 	0.2424099425	0.8596527003	1.9207472504	0.8968651791	0.203621476	0.7801444858	0.4662419717	0.7685500522	0.028854122	0.218064868	2	-1.0</attr></taxon>
+		<taxon id="BR_ALB_5"> <attr name="factors">0 0 </attr><attr name="latent"> 	-0.5410226586	-1.8972512825	-1.3963639206	-1.2872230541	-0.1139928013	-1.8146156321	-2.0634828803	-0.9576452607	-1.7344186356	1.7881586768	0	1.0</attr></taxon>
+		<taxon id="LA_WY_2"> <attr name="factors">0 0 </attr><attr name="latent"> 	-0.5750849456	-1.6750100933	0.1008699837	-1.0170858252	-1.4836676795	-2.0162200938	1.5574037782	-1.9178466129	-1.7344186356	0.8850369717	0	-1.0</attr></taxon>
+		<taxon id="LO_AZ_2"> <attr name="factors">0 0 </attr><attr name="latent"> 	0.9236556826	2.0874708575	1.4673595188	0.7258740608	-0.0764192084	0.7949516666	0.9692360435	0.4209771669	-0.0994134404	1.0750270193	2	-1.0</attr></taxon>
+		<taxon id="LO_TX_5"> <attr name="factors">0 0 </attr><attr name="latent">	0.9236556826	2.0874708575	1.4673595188	0.7258740608	-0.0764192084	0.7949516666	0.9692360435	0.4209771669	-0.0994134404	1.0750270193	2	-1.0</attr></taxon>
+		<taxon id="MI_CO_1"> <attr name="factors">0 0 </attr><attr name="latent"> 	-0.7113340936	-0.2941830781	-0.3461914074	-0.7282688944	-0.8801418438	0.2724451914	-0.1608239712	-0.6634168949	1.2107776976	-0.0174157544	1	-1.0</attr></taxon>
+		<taxon id="PU_CA_PP_3"> <attr name="factors">0 0 </attr><attr name="latent">	0.9066245391	0.488360147	0.33494458	-0.0514889222	-0.9194766989	0.7772080187	0.360948546	-0.974315423	1.0642051471	0.4107308318	2	-1.0</attr></taxon>
+		<taxon id="PU_NV_3"> <attr name="factors">0 0 </attr><attr name="latent"> 	0.9917802567	0.1798005361	-0.0720499883	0.1597354004	-0.7274991227	0.4262702903	0.8143138694	-0.7250964957	0.2750014975	0.594700068	2	-1.0</attr></taxon>
+		<taxon id="SA_CO_1"> <attr name="factors">0 0 </attr><attr name="latent"> 	-0.0982129275	-1.9029453686	-0.5676133229	-1.0731249312	-0.4051881462	-2.0960717113	-1.1453510345	-0.9493101795	-1.7344186356	-0.4489072357	0	1.0</attr></taxon>
+		<taxon id="SC_NV_4"> <attr name="factors">0 0 </attr><attr name="latent"> 	0.9577179696	0.181993948	-0.339865067	-0.3115678499	-0.75509223	0.1988592507	-0.8858060935	-1.0993416408	-0.7882298154	-0.0910034489	2	1.0</attr></taxon>
+		<taxon id="SH_NV_4"> <attr name="factors">0 0 </attr><attr name="latent"> 	-1.1882061117	-0.5500188693	-1.2698371117	-0.5773943783	1.2738817859	-0.3664405753	-0.6349797163	1.3786779948	-0.6573508077	-1.6370140122	1	1.0</attr></taxon>
+		<taxon id="SK_SON_2"> <attr name="factors">0 0 </attr><attr name="latent">	-1.2392995422	0.483759634	-0.0362007259	0.5189604387	1.0337630439	-0.3686435759	-0.5209677267	0.1925959425	1.9905718537	-1.0409536868	1	1.0</attr></taxon>
+		<taxon id="TR_UT_3"> <attr name="factors">0 0 </attr><attr name="latent"> 	-1.1371126812	-0.2753094987	-0.6540733089	-0.5242290726	0.8177148848	-0.0811871162	-0.2252072124	0.6393562939	-0.1374659295	-0.142514835	1	1.0</attr></taxon>
+	</taxa>
+
+
+
+ <!-- this is how discrete data is encoded -->
+    <generalDataType id="multinomial">
+        <state code="0"/>
+        <state code="1"/>
+        <state code="2"/>
+    </generalDataType>
+    
+
+
+	<!-- The sequence alignment (each sequence refers to a taxon above).         -->
+	<!-- ntax=30 nchar=1                                                         -->
+	<alignment id="alignment">
+	<dataType idref="multinomial"/>
+		<sequence>
+			<taxon idref="BA"/>
+			111111111110
+		</sequence>
+		<sequence>
+			<taxon idref="JO"/>
+			111110111101
+		</sequence>
+		<sequence>
+			<taxon idref="CA_VA_1"/>
+			111111111111
+		</sequence>
+		<sequence>
+			<taxon idref="CHAP_NM_3"/>
+			111111111120
+		</sequence>
+		<sequence>
+			<taxon idref="CH_CHI_2"/>
+			111111111120
+		</sequence>
+		<sequence>
+			<taxon idref="COOC_CO_2"/>
+			111111111120
+		</sequence>
+		<sequence>
+			<taxon idref="CH_NM_3"/>
+			111111111120
+		</sequence>
+		<sequence>
+			<taxon idref="COAL_WY_1"/>
+			111111111120
+		</sequence>
+		<sequence>
+			<taxon idref="COCO_WY_3"/>
+			111111111120
+		</sequence>
+		<sequence>
+			<taxon idref="COOC_UT_4"/>
+			111111111120
+		</sequence>
+		<sequence>
+			<taxon idref="COPI_AZ_1"/>
+			111111111120
+		</sequence>
+		<sequence>
+			<taxon idref="DE_AZ_1"/>
+			111111111111
+		</sequence>
+		<sequence>
+			<taxon idref="EL_NM_4"/>
+			111111111111
+		</sequence>
+		<sequence>
+			<taxon idref="EX_CA_2"/>
+			111111111111
+		</sequence>
+		<sequence>
+			<taxon idref="FL_UT_5"/>
+			111111111110
+		</sequence>
+		<sequence>
+			<taxon idref="FO_CA_BAL_3"/>
+			111111111111
+		</sequence>
+		<sequence>
+			<taxon idref="FO_CA_BTR_1"/>
+			111111111111
+		</sequence>
+		<sequence>
+			<taxon idref="HI_TX_4"/>
+			111111111120
+		</sequence>
+		<sequence>
+			<taxon idref="BR_ALB_5"/>
+			111110111101
+		</sequence>
+		<sequence>
+			<taxon idref="LA_WY_2"/>
+			111110111100
+		</sequence>
+		<sequence>
+			<taxon idref="LO_AZ_2"/>
+			111111111120
+		</sequence>
+		<sequence>
+			<taxon idref="LO_TX_5"/>
+			111111111120
+		</sequence>
+		<sequence>
+			<taxon idref="MI_CO_1"/>
+			111111111110
+		</sequence>
+		<sequence>
+			<taxon idref="PU_CA_PP_3"/>
+			111111111120
+		</sequence>
+		<sequence>
+			<taxon idref="PU_NV_3"/>
+			111111111120
+		</sequence>
+		<sequence>
+			<taxon idref="SA_CO_1"/>
+			111110111101
+		</sequence>
+		<sequence>
+			<taxon idref="SC_NV_4"/>
+			111111111121
+		</sequence>
+		<sequence>
+			<taxon idref="SH_NV_4"/>
+			111111111111
+		</sequence>
+		<sequence>
+			<taxon idref="SK_SON_2"/>
+			011111111111
+		</sequence>
+		<sequence>
+			<taxon idref="TR_UT_3"/>
+			111111111111
+		</sequence>
+	</alignment>
+
+    <!-- The unique patterns                                                     -->
+    <!-- npatterns=69                                                            -->
+	<patterns id="patterns" from="1" unique="false">
+		<alignment idref="alignment"/>
+	</patterns>
+
+	<!-- this defines the tree and the models associated with it -->
+	<newick id="startingTree">
+		((JO:2.644495,SA_CO_1:2.644495):0.409622,(LA_WY_2:2.717767,((CA_VA_1:2.004665,BR_ALB_5:2.004665):0.699968,((LO_TX_5:2.047423,SK_SON_2:2.047423):0.199833,((LO_AZ_2:1.817114,(CHAP_NM_3:1.698069,((CH_CHI_2:1.344339,HI_TX_4:1.344339):0.166127,(CH_NM_3:1.098793,COPI_AZ_1:1.098793):0.411672):0.187604):0.119045):0.205129,(DE_AZ_1:1.927596,((SC_NV_4:1.599147,(BA:1.416495,MI_CO_1:1.416495):0.182652):0.168978,((EL_NM_4:1.45465,(PU_NV_3:1.303123,((COOC_CO_2:0.929981,COCO_WY_3:0.929981):0.135544,(COAL_WY_1:0.883121,COOC_UT_4:0.883121):0.182404):0.237598):0.151527):0.184192,(PU_CA_PP_3:1.488794,(FL_UT_5:1.373175,((EX_CA_2:1.0,FO_CA_BAL_3:1.0):0.239958,(FO_CA_BTR_1:1.115649,(SH_NV_4:0.885012,TR_UT_3:0.885012):0.230637):0.124309):0.133217):0.115619):0.150048):0.129284):0.159471):0.094647):0.225013):0.457377):0.013134):0.336349):1.830748;
+	</newick>
+
+	<treeModel id="treeModel">
+		<tree idref="startingTree"/>
+		<rootHeight>
+			<parameter id="treeModel.rootHeight"/>
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="treeModel.internalNodeHeights"/>
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="treeModel.allInternalNodeHeights"/>
+		</nodeHeights>
+
+		<nodeTraits rootNode="false" internalNodes="false" leafNodes="true" traitDimension="12" name="latent">
+			<parameter id="leafTraits"/>
+		</nodeTraits>
+
+	</treeModel>
+
+	<report>
+        Newick Tree:
+		<tree idref="startingTree"/>
+		<parameter idref="leafTraits"/>
+	</report>
+    
+    
+    
+    
+    
+    <!-- this defines the diffusion matrix. Since this is a factor analysis it independent with dimension corresponding to the number of factors (2 in this instance) -->
+	<multivariateDiffusionModel id="location.diffusionModel">
+		<precisionMatrix>
+			<DiagonalMatrix id="location.precision">
+				<parameter id="location.precision.diagonal" dimension="2" value="1"/>
+			</DiagonalMatrix>
+		</precisionMatrix>
+	</multivariateDiffusionModel>
+
+
+
+
+
+
+
+	<multivariateTraitLikelihood id="location.traitLikelihood" traitName="factors"
+		cacheBranches="true" allowIdentical="true"
+		 useTreeLength="false" scaleByTime="true" reportAsMultivariate="true" reciprocalRates="true" integrateInternalTraits="true">
+		<multivariateDiffusionModel idref="location.diffusionModel"/>
+		<treeModel idref="treeModel"/>
+		<traitParameter>
+			<parameter id="factors1"/>
+		</traitParameter>
+		
+
+		
+        <conjugateRootPrior>
+            <meanParameter>
+                <parameter dimension="2" value="0.0"/>
+            </meanParameter>
+            <priorSampleSize>
+                <parameter dimension="2" value="0.001"/> 
+            </priorSampleSize>
+        </conjugateRootPrior>
+		
+
+	</multivariateTraitLikelihood>
+
+
+	<blockUpperTriangularMatrixParameter transpose="true" id="loadings" diagonalRestriction="false"> 
+		<parameter id="l1" value="1.0"/>
+		<parameter id="l2" value="1.0 1.0"/>
+		<parameter id="l3" value="1.0 1.0"/>
+		<parameter id="l4" value="1.0 1.0"/>
+		<parameter id="l5" value="1.0 1.0"/>
+		<parameter id="l6" value="1.0 1.0"/>
+		<parameter id="l7" value="1.0 1.0"/>
+		<parameter id="l8" value="1.0 1.0"/>
+		<parameter id="l9" value="1.0 1.0"/>
+		<parameter id="l10" value="1.0 1.0"/>
+		<parameter id="l11" value="1.0 0.0"/>
+		<parameter id="l12" value="0.0 1.0"/>			 				
+	</blockUpperTriangularMatrixParameter>
+			
+
+<!-- defines factor analysis model -->
+	<latentFactorModel id="factorModel" factorNumber="1" traitName="latent" scaleData="true" referenced="true">
+		<continuous>
+			<parameter value="1 1 1 1 1 1 1 1 1 1 0 0"  />
+		</continuous>
+		<factors>
+			<compoundParameter idref="factors1"/>
+		</factors>
+		<data>
+			<dataFromTreeTips id="dataMat" traitName="latent">
+				<treeModel idref="treeModel"/>
+				<traitParameter>
+					<parameter idref="leafTraits"/>
+				</traitParameter>
+			</dataFromTreeTips>
+		</data>
+		<treeModel idref="treeModel"/>
+		<loadings>
+
+ 			<blockUpperTriangularMatrixParameter idref="loadings"/>
+ 			
+		</loadings>
+		<rowPrecision>
+			<DiagonalMatrix id="rowPrec.full">
+				<parameter id="rowPrec" dimension="30" value="1"/>
+			</DiagonalMatrix>
+		</rowPrecision>
+		<columnPrecision>
+			<DiagonalMatrix id="colPrec.full">
+				<parameter id="colPrec" value="1 1 1 1 1 1 1 1 1 1 1 1" />
+			</DiagonalMatrix>
+		</columnPrecision>
+	</latentFactorModel>	
+
+	
+	<cachedPrior id="colPrec.prior">
+		<gammaPrior id="colPrec.prior.inner" shape=".33" scale="3">
+			<Parameter idref="colPrec"/>
+		</gammaPrior>
+		<Parameter idref="colPrec"/>
+	</cachedPrior>
+	
+
+	<gammaPrior id="rowPrec.prior" shape=".33" scale="3" offset="0">
+		<parameter idref="rowPrec"/>
+	</gammaPrior>
+
+	<cachedPrior id="loadings.prior">
+		<normalPrior id="loadings.prior.inner" mean="0" stdev="1">
+			<compoundParameter idref="loadings"/>		
+		</normalPrior>
+		<compoundParameter idref="loadings"/>
+	</cachedPrior>
+
+ 
+	<report>
+		<maskedParameter id= "latentParameters" >
+			<mask>
+				<parameter id="mask" value=" 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1"  />
+			</mask>
+			<parameter idref="leafTraits"/>
+		</maskedParameter>
+	</report>
+
+
+
+<!-- more definitions for discrete variables -->
+	<CompoundParameter id="threshold">
+		<parameter id = "threshold_sample" value="1" lower = "0"/>
+	</CompoundParameter>
+
+    <orderedLatentLiabilityLikelihood id="liabilityLikelihood" NData="1">
+        <patterns idref="patterns"/>
+        <treeModel idref="treeModel"/>
+        <tipTrait>
+			<parameter idref="leafTraits"/>
+        </tipTrait>
+        <threshold>
+        	<parameter idref="threshold"/>
+        </threshold>
+        <numClasses>
+        	<parameter value = "1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 3.0 2.0"/>
+        </numClasses>
+    </orderedLatentLiabilityLikelihood>
+
+ 
+
+<!-- list of transition kernels for the MCMC -->
+    <operators id="operators" optimizationSchedule="log">
+
+ 
+ 
+ 
+		<scaleOperator scaleFactor="0.2" weight="1"  >
+			<CompoundParameter idref="threshold_sample"/>
+		</scaleOperator> 
+ 
+
+    
+    
+
+
+
+	    <randomWalkOperator windowSize="1.0" weight="30" >
+		    <maskedParameter idref="latentParameters"/>
+		</randomWalkOperator>
+
+
+
+
+ 
+		<randomWalkOperator windowSize="1.0" weight="50"  >
+			<CompoundParameter idref="factors1"/>
+	  	</randomWalkOperator> 
+  
+
+		<loadingsGibbsOperator weight="4" scaleFactor="1.0" randomScan="false">
+			<latentFactorModel idref="factorModel"/>
+			<normalPrior idref="loadings.prior.inner"/>			
+		</loadingsGibbsOperator>
+ 
+
+
+ 
+		<latentFactorModelPrecisionOperator weight=".1">
+			<latentFactorModel idref="factorModel"/>
+			<gammaPrior idref="colPrec.prior.inner"/>
+		</latentFactorModelPrecisionOperator>
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+ 
+ 
+
+
+
+
+
+
+
+        
+    </operators>
+
+<!-- definitions of the MCMC and how it is logged -->
+	<mcmc id="mcmc" chainLength="10000000" autoOptimize="true" autoOptimizeDelay="10000">
+		<posterior id="posterior">
+			<prior id="prior">
+				<gammaPrior idref="colPrec.prior"/>
+				<normalPrior idref="loadings.prior"/>
+				<orderedLatentLiabilityLikelihood idref="liabilityLikelihood"/>
+		        <multivariateTraitLikelihood idref="location.traitLikelihood"/>
+				<gammaPrior shape="1" scale="0.5" offset="0.0">
+					<parameter idref="threshold"/>
+				</gammaPrior>
+			</prior>
+			<likelihood id="likelihood">
+
+	            <latentFactorModel idref="factorModel"/>
+
+			</likelihood>
+		</posterior>
+
+		<operators idref="operators"/>
+
+		<log id="screenLog" logEvery="1000">
+			<column label="Posterior" dp="4" width="12">
+				<posterior idref="posterior"/>
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior"/>
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood"/>
+			</column>
+			 
+     
+			<column label="threshold" sf="6" width="12">
+				<CompoundParameter idref="threshold"/>
+			</column>
+
+		</log>
+
+		<log id="fileLog1" logEvery="1000" fileName="AquilegiaFac2.log">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+            <compoundParameter idref="factors1"/>
+			<parameter idref="l1"/>
+			<parameter idref="l2"/>
+			<parameter idref="l3"/>
+			<parameter idref="l4"/>
+			<parameter idref="l5"/>
+			<parameter idref="l6"/>
+			<parameter idref="l7"/>
+			<parameter idref="l8"/>
+			<parameter idref="l9"/>
+			<parameter idref="l10"/>
+			<parameter idref="l11"/>
+			<parameter idref="l12"/>
+			<parameter idref="leafTraits"/>
+			<parameter idref="colPrec"/>
+			<parameter idref="location.precision.diagonal"/>	
+			<CompoundParameter idref="threshold"/>
+
+
+		</log>
+		
+
+		
+		
+		
+		
+
+		<logTree id="treeFileLog" logEvery="10000" nexusFormat="true" fileName="AquileguiaFac2.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel"/>
+			<posterior idref="posterior"/>
+			<multivariateDiffusionModel idref="location.diffusionModel"/>   <!-- reports info about diffusion model -->
+            <multivariateTraitLikelihood idref="location.traitLikelihood"/>
+		</logTree>    
+     
+	</mcmc>
+
+
+    
+    
+    
+
+</beast>
+
+
+     
